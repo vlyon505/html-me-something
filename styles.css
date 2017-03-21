@@ -1,0 +1,29 @@
+html {
+    background-color: lightgrey;
+    margin: 50px;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+h3 {
+    color: #grey;
+}
+p {
+    font-family: Times;
+    padding: 40px
+}
+
+img {
+    border: 2px solid black;
+}
+#coffee {
+    background-color: #b3ffb3;
+}
+#tracker {
+    background-color: #b3ffb3;
+}
+#care {
+    background-color: #b3ffb3;
+}
